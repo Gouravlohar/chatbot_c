@@ -31,7 +31,7 @@ This is a simple and interactive chatbot application built with Streamlit and po
 
 3. Ensure you have Ollama installed and the LLama 3.2 model set up:
     ```bash
-    ollama install llama-3.2
+    ollama run llama3.2
     ```
 
 4. Run the Streamlit application:
