@@ -20,7 +20,7 @@ This is a simple and interactive chatbot application built with Streamlit and po
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/llama-chatbot.git
+    git clone https://github.com/Gouravlohar/chatbot_c.git
     cd llama-chatbot
     ```
 
